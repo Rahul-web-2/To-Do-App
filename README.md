@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-web-2/To-Do-App/main/src/main/resources/static/icons/todo-icon.png" alt="To-Do App Logo" width="120" />
   <h1 align="center">To-Do App</h1>
 </p>
 
