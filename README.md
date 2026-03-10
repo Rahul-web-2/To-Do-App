@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Task Management Web App</strong> – A full-stack Java Spring Boot application with Thymeleaf and H2 for managing tasks (add, edit, delete, mark complete) with a clean MVC structure.  
+  <strong>To-Do Web App</strong> – A full-stack Java Spring Boot application with Thymeleaf and H2 for managing tasks (add, edit, delete, mark complete) with a clean MVC structure.  
 </p>
 
 ---
